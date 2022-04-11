@@ -1,5 +1,5 @@
 ## Mandatory Imports
-```python3
+```python3jkk
 None
 ```
 There is None Mandatory Imports. Because Var, bot and command are already automatically imported.
